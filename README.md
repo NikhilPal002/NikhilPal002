@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NikhilPal002&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil-Pal" /> </p>
 
-- 🔭 I’m currently working on **React, React Native, Firebase**
+- 🔭 I’m currently working on **React, Node, Firebase**
 
 - 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **website, app**
 
-- 🤝 I’m looking for help with **React Native, Next js, Firebase, AWS Amplify**
+- 🤝 I’m looking for help with **Node js, Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikhilPal002](https://github.com/NikhilPal002)
 
