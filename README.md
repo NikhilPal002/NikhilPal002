@@ -56,13 +56,13 @@
 
 <p align="left">
   <a href="https://github.com/NikhilPal002/Real-Estate_website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilPal002&repo=Real-Estate_website&theme=react&bg_color=0D1117&title_color=800080&&icon_color=800080" alt="Real-Estate_website"></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilPal002&repo=Real-Estate_website&theme=react&layout=content&bg_color=0D1117&title_color=800080&&icon_color=800080" alt="Real-Estate_website"></a>
   <a href="https://github.com/NikhilPal002/study-material">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilPal002&repo=study-material&theme=react&bg_color=0D1117&title_color=800080&&icon_color=800080" alt="study-material"></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilPal002&repo=study-material&theme=react&layout=content&bg_color=0D1117&title_color=800080&&icon_color=800080" alt="study-material"></a>
   <a href="https://github.com/NikhilPal002/inotebook">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilPal002&repo=inotebook&theme=react&bg_color=0D1117&title_color=800080&&icon_color=800080" alt="inotebook"></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilPal002&repo=inotebook&theme=react&layout=content&bg_color=0D1117&title_color=800080&&icon_color=800080" alt="inotebook"></a>
   <a href="https://github.com/NikhilPal002/NewsApp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilPal002&repo=NewsApp&theme=react&bg_color=0D1117&title_color=800080&&icon_color=800080" alt="NewsApp"></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilPal002&repo=NewsApp&theme=react&layout=content&bg_color=0D1117&title_color=800080&&icon_color=800080" alt="NewsApp"></a>
 
   
   </p>
