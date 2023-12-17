@@ -114,7 +114,7 @@
 
 <p align="center">
  <a href="https://www.instagram.com/nikhilpal_05/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/></a>     &nbsp;
- <a href="https://www.linkedin.com/in/sauravsinghhhh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" /></a>
+ <a href="https://www.linkedin.com/in/nikhil-pal-074629216/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" /></a>
 </p>
 
 
